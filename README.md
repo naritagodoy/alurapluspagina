@@ -1,3 +1,3 @@
 # alurapluspagina
-Desenvolvendo front end com as aulas da Alura. 
+Desenvolvendo front end utilizando HTML puro e CSS. 
 > Status do projeto: Finalizado. 
